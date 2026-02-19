@@ -1,11 +1,11 @@
 This project demonstrates practical implementation of:
 
-Text preprocessing
+->Text preprocessing
 
-Vectorization (e.g., TF-IDF / CountVectorizer)
+->Vectorization (e.g., TF-IDF / CountVectorizer)
 
-Cosine similarity scoring
+->Cosine similarity scoring
 
-Automated resume matching
+->Automated resume matching
 
-The goal is to make the recruitment process faster, more efficient, and data-driven.
+->The goal is to make the recruitment process faster, more efficient, and data-driven.
