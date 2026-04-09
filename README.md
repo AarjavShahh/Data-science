@@ -2,7 +2,7 @@ This project demonstrates practical implementation of:
 
 ->Text preprocessing
 
-->Vectorization (e.g., TF-IDF / CountVectorizer)
+->Vectorization (e.g. CountVectorizer)
 
 ->Cosine similarity scoring
 
